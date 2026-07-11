@@ -1,7 +1,7 @@
 ![Seneca](http://senecajs.org/files/assets/seneca-logo.png)
 > A [Seneca.js][] plugin
 
-# seneca-redis-pubsub-transport
+# @seneca/redis-pubsub-transport
 [![npm version][npm-badge]][npm-url]
 [![Build Status][travis-badge]][travis-url]
 [![Coverage Status][coveralls-badge]][coveralls-url]
